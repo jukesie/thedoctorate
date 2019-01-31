@@ -9,27 +9,31 @@ Responsible Technology 2019 - 20190131 - https://ti.to/doteveryone/responsible-t
 
 **March**
 
-Service Design in Governnment - 20190306 - https://govservicedesign.net/2019/ (Edinburgh)
+6th - 8th: Service Design in Governnment - https://govservicedesign.net/2019/ (Edinburgh)
 
-TICTeC - 20190319 - https://tictec.mysociety.org/2019 (Paris)
+19th - 20th TICTeC -- https://tictec.mysociety.org/2019 (Paris)
 
 **April**
-Personal Democracy Forum - Gdansk, Poland 4-5 April (with festival of Civic Tech on 6th April) 
+
+4th - 5th :Personal Democracy Forum - Gdansk, Poland (with festival of Civic Tech on 6th April) 
 
 **May**
 
-OneTeamGov Global - 20190521 - https://medium.com/@fassucanadabeyond150/oneteamgovcanada-global-unconference-victoria-bc-a8ea7e2524af (Victoria, Canada)
+21st: OneTeamGov Global - https://medium.com/@fassucanadabeyond150/oneteamgovcanada-global-unconference-victoria-bc-a8ea7e2524af (Victoria, Canada)
 
-Code for America Summit?
+29th - 31st: Code for America Summit - https://www.codeforamerica.org/events/summit
 
 **June**
 
-GOVIS - 20190606 - http://govis.org.nz/ (Wellington, NZ)
+6th: GOVIS - http://govis.org.nz/ (Wellington, NZ)
 
-
+12th: Camp Digital - https://www.wearesigma.com/campdigital/2019/
 
 **November**
-FWD50 - Ottawa 20191106 https://fwd50.com/
+
+11th: FWD50 - Ottawa, Canada https://fwd50.com/
+
+
 ----
 
 - Tictec
